@@ -1,3 +1,7 @@
 build/
 dist/
 *.egg-info/
+txtemo/ 
+    __pycache__/
+__pycache__/
+*.pyc
