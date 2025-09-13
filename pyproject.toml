@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "txtemo"
+version = "0.1.0"
+description = "ONNX-based emotion detection using quantized RoBERTa"
+authors = [{ name = "Pranesh S" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "onnxruntime>=1.14.0",
+    "transformers>=4.30.0",
+    "huggingface_hub>=0.14.1",
+    "numpy"
+]
