@@ -12,6 +12,7 @@ It runs fast on CPU, making it suitable for local apps, servers, and even lightw
 - ✅ Easy-to-use Python API
 - ✅ Hugging Face Hub integration (auto-downloads model + tokenizer)
 - ✅ Returns both labels (Positive/Negative/Neutral) and confidence score
+- ✅ Supports Multiple languages. Requires Internet for Translation purpose.
 
 ---
 
